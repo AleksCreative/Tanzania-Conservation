@@ -1,0 +1,20 @@
+<svg width="25" height="22" viewBox="0 0 25 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="search-icon">
+<g id="Ellipse 6" filter="url(#filter0_d_1005_2230)">
+<path d="M18 7C18 10.2498 15.156 13 11.5 13C7.84405 13 5 10.2498 5 7C5 3.75015 7.84405 1 11.5 1C15.156 1 18 3.75015 18 7Z" stroke="white" stroke-width="2" shape-rendering="crispEdges"/>
+</g>
+<path id="Vector 1" d="M24 19L16 11" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_d_1005_2230" x="0" y="0" width="23" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1005_2230"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1005_2230" result="shape"/>
+</filter>
+</defs>
+</svg>
